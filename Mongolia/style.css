@@ -1,0 +1,34 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+
+.vl {
+    width: 900px;
+    height:600px;
+    margin:auto;
+    height: 500px;
+  position: absolute;
+
+}
+
+.stripe {
+    width: 100%;
+    height:200px;
+
+}
+
+.red{
+    background:#db1a2d;
+}
+.red{
+    background:#db1a2d;
+}
+.blue{
+    background: #0066b3;
+}
