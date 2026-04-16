@@ -1,0 +1,13 @@
+.red{
+    background-color:red;
+}
+.flag{
+    height:600px;
+    width:900px;
+    text-align:center;
+    background-color:red;
+    padding-top:350px;
+}
+.header{
+    background-color:LightSkyBlue;
+}
