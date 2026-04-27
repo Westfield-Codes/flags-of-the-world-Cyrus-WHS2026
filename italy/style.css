@@ -1,31 +1,31 @@
 .header {
     text-align:center;
 }
-
 a {
     display:block;
     width:100%;
     text-align:center;
 }
-
 .flag {
     width:600px;
     height:400px;
     margin:auto;
+    display:block;
 }
-
 .stripe {
-    width:100%;
-    height: 200px;
-
+    height:100%;
+    width:200px;
+    float:left;
 }
-
+.green{
+    background:#008C45;
+}
 .white{
-    background:#fff;
+    background:#F4F9FF;
 }
 .red{
-    background:#ff0000;
+    background:#CD212A;
 }
-.blue{
-    background:#0099ff;
+body {
+    text-align:center;
 }

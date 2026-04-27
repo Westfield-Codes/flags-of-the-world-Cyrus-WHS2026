@@ -9,8 +9,8 @@ a {
 }
 
 .flag {
-    width:600px;
-    height:400px;
+    width:900px;
+    height:600px;
     margin:auto;
 }
 
@@ -20,12 +20,12 @@ a {
 
 }
 
-.white{
-    background:#fff;
-}
-.red{
-    background:#ff0000;
-}
 .blue{
-    background:#0099ff;
+    background:#4664B2;
+}
+.green{
+    background:#009E60;
+}
+.yellow{
+    background:#FCD116;
 }
